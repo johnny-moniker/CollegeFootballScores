@@ -1,0 +1,82 @@
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\CollegeFootballScores.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\CollegeFootballScores.pdb
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.AspNet.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.Core.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\EntityFramework.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\System.Web.Providers.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\EntityFramework.xml
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.Core.xml
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.xml
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.xml
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.AspNet.xml
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.dll
+c:\users\jack\documents\visual studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.pdb
+c:\Users\Jack\Documents\Visual Studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.dll
+c:\Users\Jack\Documents\Visual Studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.pdb
+c:\Users\Jack\Documents\Visual Studio 2012\Projects\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\CollegeFootballScores.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\CollegeFootballScores.pdb
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.Core.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\EntityFramework.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\System.Web.Providers.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.pdb
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\EntityFramework.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.Core.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.csprojResolveAssemblyReference.cache
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.dll
+C:\Users\jcheney\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.pdb
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\CollegeFootballScores.dll.config
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\CollegeFootballScores.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\CollegeFootballScores.pdb
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.Core.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\EntityFramework.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\System.Web.Providers.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.pdb
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\HtmlAgilityPack.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\EntityFramework.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.Core.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.dll
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.pdb
+C:\Users\admin77\Desktop\CollegeFootballScores\CollegeFootballScores\CollegeFootballScores\obj\Debug\CollegeFootballScores.csprojResolveAssemblyReference.cache
